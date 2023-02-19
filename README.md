@@ -1,4 +1,5 @@
-# cpp-clios
+# C++ CLI OS
+C++ Command line interface operating system
 A simple CLI operating system written in C++
 
 I won't be uploading the source code anymore. It will only be available to beta version testers.
